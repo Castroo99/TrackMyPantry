@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_margin="5dp"
+    android:padding="10dp"
+    android:background="@drawable/dialog_shape">
+
+    <TextView
+        android:id="@+id/barcodeTitle"
+        android:layout_width="274dp"
+        android:layout_height="49dp"
+        android:text="@string/prod_details"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/nameProd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="28dp"
+        android:hint="@string/prod_name"
+        android:inputType="text"
+        android:minHeight="48dp"
+        android:text=""
+        tools:ignore="TextContrastCheck" />
+
+    <EditText
+        android:id="@+id/descriptionProd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="28dp"
+        android:hint="@string/prod_desc"
+        android:inputType="text"
+        android:minHeight="48dp"
+        android:text=""
+        tools:ignore="TextContrastCheck" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="28dp">
+
+        <EditText
+            android:id="@+id/barcodeTextProd"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="@string/barcode_hint"
+            android:inputType="text"
+            android:minHeight="48dp"
+            android:text=""
+            tools:ignore="TextContrastCheck" />
+
+        <ImageButton
+            android:id="@+id/cameraBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="0dp"
+            android:minHeight="48dp"
+            android:contentDescription="@string/camera_btn"
+            android:src="@drawable/ic_menu_camera"
+            tools:ignore="SpeakableTextPresentCheck" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/uploadImg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/load_img"
+        tools:ignore="TextContrastCheck" />
+
+    <Button
+        android:id="@+id/addProducts"
+        android:layout_width="157dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/add_btn"
+        tools:ignore="TextContrastCheck" />
+
+</LinearLayout>
+</ScrollView>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">TrackingMyPantry</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Track My Pantry</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Filter</string>
+    <string name="menu_local_pantry">Local Pantry</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_register">Registration</string>
+    <string name="menu_login">Login</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Registrati</string>
+    <string name="prod_name">Nome del prodotto</string>
+    <string name="prod_desc">Descrizione del prodotto</string>
+    <string name="exp_date">Data di scadenza</string>
+    <string name="load_img">Carica Immagine</string>
+    <string name="barcode_hint">Codice a barre</string>
+    <string name="add_prod">Aggiungi oggetto alla tua dispensa</string>
+    <string name="add_btn">Aggiungi</string>
+    <string name="search_btn">Cerca</string>
+    <string name="insert_barcode">Inserisci il codice a barre</string>
+    <string name="camera_btn">Bottone fotocamera</string>
+    <string name="filter_btn">Filtra</string>
+    <string name="prod_details">Inserisci i dati del prodotto</string>
+    <string name="background">Immagine Background</string>
+    <string name="float_add_btn">Apri dialog aggiungi oggetto</string>
+    <string name="float_search_btn">Apri dialog cerca oggetto</string>
+    <string name="search_local_name">Inserisci il nome del prodotto</string>
+    <string name="delete_btn">Bottone elimina oggetto</string>
+    <string name="add_card_btn">Bottone aggiungi oggetto alla dispensa</string>
+</resources>

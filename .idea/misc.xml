@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/drawable-anydpi/ic_food.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/drawable-anydpi/ic_local_pantry.xml" value="0.14739583333333334" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/drawable-anydpi/ic_registration.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/drawable/background.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/drawable/dialog_bg.xml" value="0.14739583333333334" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/drawable/ic_menu_camera.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/drawable/ic_pantry_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/drawable/shape.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/drawable/side_nav_bar.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/layout-land/fragment_login.xml" value="0.264" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/layout-land/fragment_registration.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/layout-sw320dp-land/fragment_registration.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/layout-sw320dp/fragment_login.xml" value="0.2223731884057971" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/layout-sw320dp/fragment_registration.xml" value="0.21739130434782608" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/layout-sw320dp/local_products_card.xml" value="0.4" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/layout-sw320dp/products_cards.xml" value="0.6" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/layout-sw480dp-land/fragment_registration.xml" value="0.16331994645247658" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/layout-sw480dp/fragment_login.xml" value="0.264" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/layout-sw480dp/fragment_registration.xml" value="0.16393442622950818" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/layout-sw480dp/local_products_card.xml" value="0.8800000000000001" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/layout-sw480dp/products_cards.xml" value="0.8800000000000001" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/layout-sw600dp/fragment_login.xml" value="0.2" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/layout-sw600dp/fragment_registration.xml" value="0.16393442622950818" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/layout-sw600dp/local_products_card.xml" value="0.4" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/layout-sw600dp/products_cards.xml" value="0.536" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/layout-sw720dp/fragment_login.xml" value="0.264" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/layout-sw720dp/fragment_registration.xml" value="0.16393442622950818" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/layout-sw720dp/local_products_card.xml" value="0.264" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/layout-sw720dp/products_cards.xml" value="0.2924901185770751" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/layout/app_bar_main.xml" value="0.2" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/layout/content_main.xml" value="0.22780797101449277" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/layout/custom_dialog_add_server_to_local.xml" value="0.14719945355191258" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/layout/custom_dialog_barcode.xml" value="0.22780797101449277" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/layout/custom_dialog_filter_products.xml" value="0.24592391304347827" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/layout/custom_dialog_local_products.xml" value="0.2" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/layout/custom_dialog_products.xml" value="0.22780797101449277" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/layout/d.xml" value="0.12864583333333332" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/layout/fragment_home.xml" value="0.22780797101449277" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/layout/fragment_login.xml" value="0.2" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/layout/fragment_registration.xml" value="0.176" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/layout/local_pantry_fragment.xml" value="0.2128623188405797" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/layout/local_products_card.xml" value="0.4" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/layout/nav_header_main.xml" value="0.22780797101449277" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/layout/products_cards.xml" value="0.4" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/layout/prova.xml" value="0.4" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/layout/search_local_prod_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/menu/activity_main_drawer.xml" value="0.536" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/menu/main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/Documents/Android/PROGETTI ANDROID/app/src/main/res/mipmap-anydpi-v26/ic_pantry.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/Documents/PROGETTI ANDROID/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/User/Documents/PROGETTI ANDROID/app/src/main/res/drawable/ic_launcher_background.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/User/Documents/PROGETTI ANDROID/app/src/main/res/drawable/ic_menu_camera.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/User/Documents/PROGETTI ANDROID/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/User/Documents/PROGETTI ANDROID/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/User/Documents/PROGETTI ANDROID/app/src/main/res/drawable/side_nav_bar.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/User/Documents/PROGETTI ANDROID/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Documents/PROGETTI ANDROID/app/src/main/res/layout/app_bar_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Documents/PROGETTI ANDROID/app/src/main/res/layout/content_main.xml" value="0.264" />
+        <entry key="..\:/Users/User/Documents/PROGETTI ANDROID/app/src/main/res/layout/custom_dialog_products.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Documents/PROGETTI ANDROID/app/src/main/res/layout/fragment_gallery.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/User/Documents/PROGETTI ANDROID/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Documents/PROGETTI ANDROID/app/src/main/res/layout/fragment_login.xml" value="0.264" />
+        <entry key="..\:/Users/User/Documents/PROGETTI ANDROID/app/src/main/res/layout/fragment_registration.xml" value="0.264" />
+        <entry key="..\:/Users/User/Documents/PROGETTI ANDROID/app/src/main/res/layout/fragment_slideshow.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Documents/PROGETTI ANDROID/app/src/main/res/layout/nav_header_main.xml" value="0.4" />
+        <entry key="..\:/Users/User/Documents/PROGETTI ANDROID/app/src/main/res/layout/products_cards.xml" value="0.23278985507246377" />
+        <entry key="..\:/Users/User/Documents/PROGETTI ANDROID/app/src/main/res/menu/activity_main_drawer.xml" value="0.536" />
+        <entry key="..\:/Users/User/Documents/PROGETTI ANDROID/app/src/main/res/menu/main.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

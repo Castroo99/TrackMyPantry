@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_margin="5dp"
+    android:padding="10dp"
+    android:background="@drawable/dialog_shape"
+    >
+
+    <Spinner
+        android:id="@+id/localFilterDialogType"
+        android:layout_width="300dp"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:background="@android:drawable/btn_dropdown"
+        android:spinnerMode="dropdown"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <Button
+        android:id="@+id/filterDialogLocalProducts"
+        android:layout_width="157dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/filter_btn"
+        tools:ignore="TextContrastCheck" />
+
+</LinearLayout>
+</ScrollView>
